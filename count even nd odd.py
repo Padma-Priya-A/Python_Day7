@@ -1,4 +1,4 @@
-#Count the number of odd numbers between 1 to 10.
+#Count the number of even and odd numbers between 1 to 10.
 
 e_count=0
 o_count=0
